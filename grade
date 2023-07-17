@@ -8,7 +8,7 @@ public class Main
 		
 		System.out.println("Input grades: ");
 		grade[0] = sc.nextInt();
-	    grade[1] = sc.nextInt();
+	    	grade[1] = sc.nextInt();
 		grade[2] = sc.nextInt();
 		grade[3] = sc.nextInt();
 		
